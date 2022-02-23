@@ -1,0 +1,1100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some passages of the House of Lords in the winter sessions of Parliament in the year 92</title>
+            <author>England and Wales. Parliament. House of Lords.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38330</idno>
+            <idno type="STC">Wing E2847</idno>
+            <idno type="STC">ESTC R10050</idno>
+            <idno type="EEBO-CITATION">12826955</idno>
+            <idno type="OCLC">ocm 12826955</idno>
+            <idno type="VID">94259</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94259)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 712:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some passages of the House of Lords in the winter sessions of Parliament in the year 92</title>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption-title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div n="House of Lords" type="account">
+            <pb facs="tcp:94259:1"/>
+            <pb facs="tcp:94259:1"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Paſſages of the Houſe of LORDS In the Winter Deſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of Parliament in the year <hi>92.</hi>
+            </head>
+            <p n="1">
+               <note place="margin">Novemb.</note>1ſt. THe Earles of
+<hi>Hontingdon</hi> and <hi>Marlebrough</hi> complained of their being denyed by the Kings Bench to come out of Priſon, altho' they had offered Bail accor<g ref="char:EOLhyphen"/>cording to the Act of <hi>Habeas Corpus;</hi> the Buſineſs was referred to a Committe, who were im<g ref="char:EOLhyphen"/>power'd to ſend for Papers, Perſons and Records: And the Lord <hi>Lucas</hi> was ordered to pro<g ref="char:EOLhyphen"/>duce the Warrants for Commitment of both the ſaid Earls, alſo the Clerk of the Kings Bench was ordered to bring to the Committe, the Affidavit of <hi>Aaron Smith</hi> upon which the Lords had been Remanded back to Priſon.</p>
+            <p n="10">10th. After a very long Debate, and the Judges heard in their own defence as well as <hi>Aaron Smith</hi> upon Oath, which he refuſed to ſwear till the Houſe was juſt going to ſend him to Pri<g ref="char:EOLhyphen"/>ſon; A Committe was ordered to draw up a Reſolution in purſuance of the Debate, and to preſent it to the Houſe to
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orrow morning, and
+<hi>Aaron Smith</hi> alſo to attend, and no other buſineſs whatſoever to intervene.</p>
+            <p n="11">11th. Upon the Report from the Committe, there was another long Debate, which was at laſt Adjourneſt again till to morrow, and all the Judges Ordered to attend.</p>
+            <p n="12">12th. Upon the Earle of <hi>Scarsdalt's</hi> Complaint that his Houſe had been ſearched, the Meſ<g ref="char:EOLhyphen"/>ſenger being ſick who
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was ordered to ſend the Origin I Warrant by vertue of which
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one it, and the
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſineſs of the three Lords was referred to a Committe of the w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Houſe, the Judges
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> attend, and nothing elſe to intervene.</p>
+            <p n="14">14th. Reſolved in the Committe of the whole Houſe, That whereas by the Statute 31 <hi>Ch.</hi> 2d. commonly called the <hi>Habeas Corpus</hi> Act, A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Judges and Juſtices,</hi> &amp;c. 'tis now reſolved and de<g ref="char:EOLhyphen"/>clared by this Houſe, that it is the duty of all the Judges and Juſtices of
+<hi>Oyer</hi> and <hi>Terminer,</hi> and general <hi>Goale-Delivery</hi> in purſuance of the ſaid Act, to ſet at Liberty the Priſoner on Bail,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Committed for High Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, unleſs it be made appear upon Oath that there are two Wit<g ref="char:EOLhyphen"/>neſſes againſt the ſaid Perſon who cannot be produced in that <hi>Term, Seſſions,</hi> or General
+<hi>Goal-Delivery:</hi> And tis hereby further reſolved, that in caſe there ſhall be more then one Priſoner to be Bailed or Remanded, 'tis the intention of the ſaid Statute, that there muſt be Oath made that there are two Witneſſes againſt each of ſuch Priſoners, in order to remand them to Priſon reſpectively.</p>
+            <p>And this Reſolution was Ordered to be Recorded in the Books of this Houſe, as a Direction to a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udges for the future, and to prevent all excuſe for any ſuch Illegal Proceedings for the future.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Upon a long Debate about the manner of freeing the ſeveral Lords from their Bail be<g ref="char:EOLhyphen"/>fore
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Houſe would go upon any other Buſineſs whatſoever, to prevent it a notice was inti<g ref="char:EOLhyphen"/>mated from the King that he would cauſe their Bail to be immediatly diſcharged at which the Houſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for two dayes that he might haye time to do ſo before they ſat again they be<g ref="char:EOLhyphen"/>ing
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon no other Buſineſs till that was not only promiſed but executed.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Houſe was
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>or<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by the Lords concerned that their Bail was diſcharged and as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ever they had a<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>inted the Houſe they fell to other Buſineſs.</p>
+            <p n="18">18th. The Houſe
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppointed a Committe to draw a Return of Thanks for the Kings Speech, which had n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er yet been ſo much as taken notice of becauſe of this Buſineſs of the Lords, and it
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> only that a handle might be taken for giving Advice to the King, to which ſomething in h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Speech ſeemed to invite the Lords, and the Addreſs was Penn'd ſoon purpoſe to thank him for the invitation ſo that the Lords found themſelves ingaged in the Advice be<g ref="char:EOLhyphen"/>fore ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of them were well
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter having ſate many dayes <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der great Controverſies about giving advice, it was Reſolved, firſt that the King ſhould be adviſed to give the chief Command of the <hi>Engliſh</hi> For c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>o no man who is not a Subject born in his Majeſties Dominions.</p>
+            <p>And that Mr. <hi>Blaithwait</hi> ſhould bring a Liſt of all the General Officers and Troopes upon the <gap reason="illegible: missing" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:94259:2"/>
+            <p>And that the Chief Officers of the Ordnance ſhall ſend a Liſt of all Officers belonging to the ſame, as alſo an Account of the Stores, and what hath been delivered out theſe two laſt years.</p>
+            <p>And that the Keeper of the <hi>Paper-Office</hi> in
+<hi>Whitehall</hi> ſend the Capitulation made between the <hi>Engliſh</hi> and <hi>Dutch</hi> in 1674.</p>
+            <p n="29">29th. Ordered, that the Commiſſioners of the
+<hi>Admiralty</hi> ſhall ſend all ſuch Orders and Let<g ref="char:EOLhyphen"/>ters, and Inſtructions as were ſent to the <hi>Admiral</hi> laſt Summer, and Particularly thoſe which relate to the <hi>Deſcent,</hi> and the Anſwers thereunto, and alſo Coppies of ſuch Letters or Orders as have been ſent by the Commanders in Chief to Inferior Officers, in Relation to the inten<g ref="char:EOLhyphen"/>ded Deſcent, or to the purſuite after the Fight at Sea. That the Commiſſioners for the <hi>Tranſ<g ref="char:EOLhyphen"/>port Ships</hi> ſend an Account of all they have done concerning theſe Matters. That the King be deſired to direct, that all the Orders and Papers ſent by the <hi>Privy Council,</hi> or by the Secretary of State, relating to the laſt Summers Expedition at Sea, and the full account of all the Tranſ<g ref="char:EOLhyphen"/>actions be laid before this Houſe, and Particularly all ſuch Orders and Papers as relate to the intended Deſcent.</p>
+            <p n="30">30th. The King ſent Word that he had directed it accordingly: The Commiſſioners of Accounts Eſtabliſht by Parliament were ordered to ſend them in, Signed by five of them at the leaſt, and they were ſent in accordingly.</p>
+            <p n="1">
+               <hi>Decemb. 1ſt.</hi> The <hi>Officers of the Ordnance</hi> were ordered to bring an Abſtract of the <hi>Stores</hi> two Years ago, and what hath been delivered out Since, and to put under the Name of every Spe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Summe total, as well of the Iſſues, as of what remains<g ref="char:punc">▪</g> And
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſend a Liſt of all the
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>reigners upon their Eſtabliſhment, or employed by them, and in what Places.</p>
+            <p n="6">6th. The Earle of <hi>Nottingham</hi> brought in thoſe Papers from the King, which being Read,</p>
+            <p n="7">7th. There aroſe along Debate about a Motion for having a Committe of both Houſes ſit to<g ref="char:EOLhyphen"/>gether, in order to the better Examination of the laſt Years Miſcarriages, the Queſtion being carryed by a very few Votes in the Negative: The other Lords Aſſigned the following
+<hi>Pro<g ref="char:EOLhyphen"/>teſtation,</hi> and entred it under their own Hands in the Books of the Houſe.</p>
+            <p>A <hi>Proteſtation</hi> againſt the Vote that refuſed to agree that a Committe of both Houſes ſhould ſit, together.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe his Majeſty having particularly, and expreſly deſired the Advice of his <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> at this time when he ſo much ſeems to need it; no other Methods was, nor in our Opini<g ref="char:EOLhyphen"/>ons could be propoſed, by which the two Houſes might ſo well and ſo ſpeedily be brought to that concurrance which is neceſſary to render their Advice Effectual.</p>
+            <p n="2">
+               <hi>2dly.</hi> Becauſe it appears by ſome Papers already imparted to this Houſe, that ſevera<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m<g ref="char:EOLhyphen"/>bers of the Houſe of Commons are concern'd in the Matters before us, as having been ſo late<g ref="char:EOLhyphen"/>ly employed in his Majeſties Service, and we conceive it the eaſieſt, propereſt, and faireſt way of Communication between the two Houſes, to have ſo great and important Buſineſs tranſ<g ref="char:EOLhyphen"/>acted, and prepared in a Committe ſo choſen.</p>
+            <p n="3">
+               <hi>3dly.</hi> Becauſe it cannot be expected that ſo many Members of the <hi>Houſe
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> from whom we ſhall need Information, can in any other manner be here preſent ſo often
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the leave of their Houſe) as will be neceſſary for a ſufficient Enquiry into the ſever<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s now under Conſideration.</p>
+            <p n="4">
+               <hi>4thly.</hi> Becauſe, if the <hi>Houſe of Commons</hi> intend alſo to give Advice to his Majeſty tis very pro<g ref="char:EOLhyphen"/>bable that both Houſes of <hi>Parliament</hi> may receive ſuch Information ſeverally as will be thought fit to be communicated as ſoon as poſſible, and we conceive no way of doing that can be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pro<g ref="char:EOLhyphen"/>per, or ſpeedy, as in a Committe of both Houſes.</p>
+            <p n="5">
+               <hi>5thly.</hi> Becauſe in a time of ſuch iminent Danger to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation by reaſon ſo many Miſcarri<g ref="char:EOLhyphen"/>ages as are ſuppoſed generally to have been committed; the cloſeſt and ſtricteſt Union of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Houſes is abſolutely neceſſary to redeem us from all that Ruine which we have too m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> cauſe to fear is coming upon us.</p>
+            <p>
+               <hi>Decemb.</hi> 8th. The Earle of <hi>Nottingham</hi> brought his own <hi>Book of Entries,</hi> with Mr. <hi>Ruſſels</hi> Le<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers, <pb facs="tcp:94259:2"/>and Copies of his own to Mr. <hi>Ruſſel,</hi> of all which a Liſt was taken, and all of them re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erred to a Committe.</p>
+            <p n="9">9th. Another Committe appointed to examine what way might be found for the Houſe to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peak with a Member of the <hi>Houſe of Commons,</hi> or to have him before a Committe.</p>
+            <p n="10">10th. Sir <hi>John Aſhby</hi> was examined at the
+<hi>Barr,</hi> then it was reported from the Committe, that they had found an Expedient, which was Debated, and at laſt reſolved on.</p>
+            <p>And another Committe ordered to prepare ſomething to be delivered at a Conference, to<g ref="char:EOLhyphen"/>gether with all the Letters, &amp;c.</p>
+            <p n="19">19th. The Lord <hi>Preſident</hi> ordered to deliver the Papers, <hi>&amp;c.</hi> And to ſay as followeth, <hi>We, by Command of the Houſe of Commons are often mentioned in the ſaid Papers, from whom poſſibly you may be more particularly informed of the Matters contained in them.</hi>
+            </p>
+            <p n="21">21ſt. The <hi>Houſe of Commons</hi> at another Conference told the <hi>Houſe of Lords,</hi> that they had Read and well conſidered thoſe <hi>Papers</hi> which they had ſent them, and finding Mr. <hi>Ruſſel</hi> a Mem<g ref="char:EOLhyphen"/>ber of their Houſe often mentioned in them, the
+<hi>Commons</hi> unanimouſly came to this Reſoluti<g ref="char:EOLhyphen"/>on: That <hi>Admiral Ruſſel</hi> in his Command of the <hi>Fleet</hi> during the laſt Summers
+<hi>Expediton,</hi> has behaved himſelf with Fidelity and Conduct.</p>
+            <p n="22">22. A Committe to inſpect the Books in relation to a true Conference, and particularly whether there have been any free Conferences deſired with the <hi>Commons,</hi> when the Houſes di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not diſagree.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th. Reported from that Committe that they had found ſome Preſidents for it as followeth.</p>
+            <p>
+               <hi>Aug. 9th.</hi> 1660. The <hi>Commons</hi> deſired a Conference about a Buſineſs of great Importance, without any Diſagreement. <hi>Aug.</hi> 13. 1660. The <hi>Lords</hi> deſired a Conference about the ſame Buſineſs without any Diſagreement.</p>
+            <p>
+               <hi>Sept.</hi> 1. 1660 A Free Conference was deſired by the
+<hi>Commons</hi> upon the ſame Subject ſtill, without any Diſagreement.</p>
+            <p>
+               <hi>July</hi> 29 1660. A free Conference was deſired by the Lords about the ſame Bill, without Diſagreement' and another Conference was deſired by the <hi>Commons</hi> the ſame day.</p>
+            <p>After a long Debate, another Committe was appointed to inſpect Preſidents, whether the Reſolution of the Houſe of <hi>Commons</hi> delivered at the laſt Conference, be according to the uſu<g ref="char:EOLhyphen"/>al Proceedings of
+<hi>Parliament,</hi> and to conſider of Heads to be delivered at a free Conference on than ſubject.</p>
+            <p n="31">31. The Queſtion was put, whether the Bill for impartial Proceeding in <hi>Parliament</hi> ſhould
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mitted, and it was carried in the Affirmative by 15 Votes: Then it was put whether they ſhould now proceed upon it, and it was carried in the Negative.</p>
+            <p>
+               <hi>July. 1ſt.</hi> A Free Conference deſired by the
+<hi>Lords,</hi> who told the <hi>Commons</hi> that their Hoſe
+<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>unicating to the
+<hi>Houſe of Lords</hi> at a Conferance, a Vote of theirs upon Matter of Fact only, without giving any Reaſons for it, is not according to the uſual Proceedings in <hi>Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſure it ſeems they took putiently, and without making the leaſt reply.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of thoſe Lords who Signed the ſeveral Proteſtations with Reaſons in this Seſſions of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> which Names under their own Hands, together with the Reaſons in the Publick
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of that Houſe.</p>
+            <list>
+               <item>
+                  <hi>Mulgrave.</hi>
+               </item>
+               <item>
+                  <hi>Rivers.</hi>
+               </item>
+               <item>
+                  <hi>Warrington.</hi>
+               </item>
+               <item>
+                  <hi>Denbeigh.</hi>
+               </item>
+               <item>
+                  <hi>Thanet</hi>
+               </item>
+               <item>
+                  <hi>Alisbury,</hi>
+               </item>
+               <item>&amp;c. to the number of 40.</item>
+            </list>
+         </div>
+         <div n="Ireland" type="account">
+            <head>An Account relating to ſome of the Affairs in
+<hi>Ireland,</hi> given by Mr. <hi>Sloane To the Right Honourable the Lords Spiritual and Temporal in Parliament Aſſembled.</hi>
+            </head>
+            <p>IN <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bedience to your Lordſhips Commands, I humbly give this Account of ſome things I have ſeen and Obſerved, or credibly heard of the Affairs of that Uunfortunate Kingdom: <pb facs="tcp:94259:3"/>out of which, by your Lordſhips direction, I ſhall omit many other things which I have only by Informations. Tho' I believe the ſame may be well proved, concerning the State and Affairs of that Kingdom. And if this ſhall be of any publick ſervice either to this, or that Kingdom, I ſhall reckon it more then a reward ſufficient to repair any Injury can be done me on this account.</p>
+            <p>It was in <hi>Auguſt</hi> laſt I went into <hi>Ireland,</hi> partly on own private Buſineſs, and partly to ſettle ſome Affairs relating to my Lord <hi>Lisburn,</hi> who had left me one of his Executors and Truſtee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his Eſtate, and being there, was choſen a Member of the <hi>Houſe of Commons,</hi> which was the chief occaſion of my ſeeing or obſerving what I did on this unfortunate Subject.</p>
+            <p n="1">1. One of the great Grievances, and that which is moſt immediatly felt by the ſubjects there I take to be that the Army there have not been better pay'd, and that by reaſon thereof ſince the War ended they have been contrary to known Laws (as they ſaid for want of Pay and ſubſiſtance) in many places of that Kingdom neceſſitated often to take free Quarter, not only for Meat and Drink and Lodging, but to ſupply themſelves with Cloaths and other neceſſarys, have Taxed, exacted, and received from the Country, great Sums of Money, and where the ſame was not paid, in many places ciſtrained for the ſame. Of which I heard man<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Complaints, and that few or none could ever get any Redreſs. And on that account I believe there is due to the Country above
+200000 <abbr>
+                  <hi>l.</hi>
+               </abbr> which hath tended to the ruine of many Perſons and Fami<g ref="char:EOLhyphen"/>lies there. And if this were an end of it, that which is paſt might be the eaſter forgot. But as I am credibi, informed by the late Accounts from thence, Free Quarters, and taxing the Sub<g ref="char:EOLhyphen"/>ject is in divers places continued to this time, or ſome few Weeks ſince: And if not pre<g ref="char:EOLhyphen"/>vented for the future by the better Pay and Order of the Army, may tend to the great impo<g ref="char:EOLhyphen"/>veriſhment and deſtruction of that Kingdom. Yet I am not ſurprized it ſhould be ſo, for it was publickly told us in the
+<hi>Houſe of Commons,</hi> as I remember by Mr. <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ultney</hi> and Mr. <hi>Davids,</hi> concerned in or about the Government there, that u<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſs we would poſs the Money Bills as brought from the Council Board, the Army woule take Fice Quarter, or to that effect.
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as appears to me there is the leſs Neceſſity for it now (were the publick Money rightly ap<g ref="char:EOLhyphen"/>plyed) for that as Mr. <hi>Polutney</hi> brought the Papers from the <hi>Lord Laeutenant</hi> to the <hi>Houſe of Commons,</hi> conſidering the Liſt of the Civil and Military Eſtabliſhment of <hi>Ireland,</hi> which was ſo far from being under-rated, that it was obſerved that the Abatement might reaſonably be ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> therein, in ſuch a time of Diſtreſs as this is there: And conſidering likewiſe the Calculations of the Revenue, which, by what I have heard from thoſe well skill'd therein, I do believe was at a great undervalue; yet to ſupply the defects thereof, and to ſupport the Expence of the Government, there, the Sum demanded was no more than 70000 <abbr>
+                  <hi>l.</hi>
+               </abbr> to diſcharge all to<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Supply, whereof a Bill has paſſed for an Additional <hi>Exciſe</hi> on <hi>Beer, Ale</hi> and other Liquors, which at a very moderate, and one of the loweſt computations, I heard was reckoned at 30000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and others computed it at far more, and the reſt was intended to be ſupplyed by a <hi>P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> the Parliament had not been Prorogued before the had time to do it.</p>
+            <p>I have heard many Complaints of the Miſapplications and Emhezilments <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Real and Perſonal Forfeited Eſtates, wherewith the People found themſelves the more ſenſibly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ved, for that when the Money was wanting to ſupport the Expence of the Government
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliament were called upon to make it good, and therefore this was Voted to be a great
+<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vance. Purſuant to that Vote the <hi>Committe of Grievances</hi> began to enter upon particular
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>quiries of the Revenue and Forfeited Eſtates: And the firſt Man I remember fell in their way was Mr. <hi>Culliford,</hi> who being acquinted that he ſtood charged with the taking into his <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>dy ſeveral forfeited Goods, and the Diſpoſing thereof to his own Uſe, when he was one of the <hi>Commiſſioners of the Revenue,</hi> he told the
+<hi>Committe</hi> that he was a Member of the <hi>Parliament</hi> of
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and tho' he was willing to wave his own Priviledge, yet the priviledge of the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>sſe of Commons</hi> in <hi>England</hi> might be concerned therein, which re offered to their Conſideration<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of to that effect. And the Debate thereof was afterwads Adjourned by the Houſe, and never de<g ref="char:EOLhyphen"/>termined <pb facs="tcp:94259:3"/>for or againſt his Priviledge, but to prevent the loſs of the Teſtimony, Witneſſes were Examined there, and by what had paſſed before here at the Treaſury againſt him, and what was there, I think it plainly appeared, and of the ſame Opinion ſeemed gene<g ref="char:EOLhyphen"/>rally the reſt of all who heard it examined, that he was guilty of very great Breaches of Truſt when he was one of the Commiſſioners of the Revenue, by ſeizing and converting to his own uſe, Forfeited Goods of conſiderable value, and by letting or procuring Lea<g ref="char:EOLhyphen"/>ſes in truſt for himſelf, of the Milns and Weers of
+<hi>Kilmainham,</hi> Mr. <hi>Kereifs</hi> Eſtate, the Cranage and Wharfage of
+<hi>Cork,</hi> which as of late exacted, was affirmed in proof by perſons of Credit there, to be a new Exaction, and upon the Merchants firſt ſet up by his own Means. And Mr. <hi>Warren</hi> of <hi>Carduffs</hi> Eſtate of conſiderable yearly value, at very inconſide<g ref="char:EOLhyphen"/>rable Rents: To which he added the Eſtate of one Mr. <hi>Sweetman</hi> adjacent to him, who had been under ſome proſecution or accuſation for the Murther of ſome Soldiers near
+<hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> and became Mr. <hi>Callefords</hi> Tenant for his own Eſtate, and was never after proſecuted as I heard of.</p>
+            <p>The Committe of the Commons were likewiſe upon inquiries of other Leaſes let at great under-values, and about 13000
+<abbr>
+                  <hi>l.</hi>
+               </abbr> or more ſaid to be return'd by the Commiſſioners of the Forfeit Perſonal Eſtates to the Commiſſioners of the revenue, of which it was belie<g ref="char:EOLhyphen"/>ved a ſmall Account had been made to their Majeſties, and had ſeveral Papers and Books brought before the Committe, which were as ſeemed to me ſo general by confuſed and im<g ref="char:EOLhyphen"/>perfect, that they could not make a full Diſcovery thereby. And were likewiſe upon another Inquiry after other Imbezilments of the Revenue and Forfeitures, but were Prorogued be<g ref="char:EOLhyphen"/>fore they could arrive at the lame. Divers other wayes there are of leſſening the For<g ref="char:EOLhyphen"/>feitures, as by reverſing of Outlawries, and thereby the former Proprietors reſtored, and ſome of them, as credibly ſaid, not within any Articles, but what they made for them<g ref="char:EOLhyphen"/>ſelves, ſince the War ended, and alſo by Grants, or promiſes of Grants to the Lord <hi>Sidney,</hi> Lord
+<hi>Athlone,</hi> Lord <hi>Coningsby</hi> and others to that Degree, that by a late credible Account I have from <hi>Ireland,</hi> there remains little or nothing of the clear forfeitures but what is pitched upon, or in a way of Grant to ſome Great Perſon.</p>
+            <p>It was much complained of, the ſuffering ſo many Papiſts to keep Arms, and many of them to be in the now ſtanding Army, of which the Members of the Houſe from their ſe<g ref="char:EOLhyphen"/>veral Countries gave many Accounts: and the <hi>Houſe of Commons</hi> had that apprehenſion thereof, and that the ſame might greatly indanger the Government, that they ſent to the Lord
+<hi>Lieutenant</hi> for remedy thereof or to that Effect, which his Excellency ſaid he would take care to do, as his anſwer was reported to the Houſe, or to that effect.</p>
+            <p>And there was likewiſe a general Complaint, and Account thereof given to the Houſe or Committe of the Houſe, of hindring the Proteſtants from their due courſe of Law againſt the Papiſts, and illegal Protections granted to the Papiſts, of which there were inſtances given, and when the Reaſon was asked why ſo many, or ſuch perſons ſhould be Protected, it was publickly anſwered by the ſaid Mr. <hi>Davies,</hi> who as was ſaid had a hand in making the ſame out, that it might be <hi>A cana Imperii,</hi> and not fit to be told, or to that effect.</p>
+            <p>But that which I apprehend to the greateſt diſcouragement of all to the Proteſtants, and Incouragement to the Papiſts, is the manner of Proroguing the <hi>Parliament,</hi> and what hath happened ſince that time.</p>
+            <p>I think I may without flattering of them ſay, that there never was a <hi>Houſe of Commons</hi> of that Kingdom of better Value than they generally were, either for their Eſtates, or the ſincerity of their Principles, to the <hi>Engliſh Proteſtant Intereſt,</hi> and who on occaſions expreſ<g ref="char:EOLhyphen"/>ſed the grateful ſenſe they had of the great kindneſs of this Kingdom many ways expreſ<g ref="char:EOLhyphen"/>ſed towards them for their relief in their diſtreſſe. We received the Lord <hi>Lieutenants</hi>
+               <pb facs="tcp:94259:4"/>firſt Speech with great joy, for thereby he told us, that he had their Majeſties Commands to call us, as the greateſt demonſtrations they could give of their Affections to us, who had ſuffered ſo many great Oppreſſions almoſt to an utter deſolation of the Country. And could not be ſo well ſettled as by a <hi>Parliament,</hi> which he ſaid was a bleſſing that for ſo many Years we had been deprived of, whereby the Intereſt had been in danger of loo<g ref="char:EOLhyphen"/>ſing not only their Religion, but all that property with which ſo great expence of Blood and Treaſure they had purchaſed. And therefore he doubted not but we would make uſe of it to paſs ſuch Laws as might tend to the firm ſettlement of the Country upon a Pro<g ref="char:EOLhyphen"/>teſtant Intereſt; And that He was ordered by their Majeſties to aſſure us, that nothing ſhould be wanting on their Parts that might contribute to our laſting or perfect Happineſs, as among other things does in his Speech appear, or to that effect.</p>
+            <p>This was thought all very good, and very true; For my Lord
+<hi>Cook</hi> in his 4th. <hi>Inſtitutes,</hi> mentions the Law of
+<hi>Edw.</hi> 2. <hi>de Parliamentis tenendis ſingulis annis in Hibernia, &amp; de legibus &amp; conſuetudinibus ibidem emendandis,</hi> which was ſo far obſerved, that from the 7th. of H. 6. which was about 200 and odd Years before the laſt Parliament in 1665. there were in all above 50. Seſſions of Parliament, and moſt of them were new Parliaments. But from the time of the laſt Parliament till now, they had contrary to the ſaid Law as I conceive, an Interval of about 27 Years, in which time I fear may too eaſily be made ap<g ref="char:EOLhyphen"/>pear there had grown over the Kingdom ſeveral Arbitrary Powers, and Juriſdictions, Op<g ref="char:EOLhyphen"/>preſſions and Grievances, beſides that we wanted many good Laws which had been made in this Kingdom, and were as I thought as much wanted, tho' not of force there, and now we hoped to redreſs all.</p>
+            <p>But tho' the Matter of mony came towards the laſt in the Speech, it came among the firſt of the Buſineſs, and was readily imbraced by the
+<hi>Commons,</hi> and when my Lord <hi>Lieu<g ref="char:EOLhyphen"/>tenant</hi> ſent the Civil and Military Liſts, together with their own Computation of what the Revenue might yield, Mr. <hi>Poultney</hi> propoſed only the Sum of 70000
+<abbr>
+                  <hi>l.</hi>
+               </abbr> as what would be wanting to ſupport the Government, and tho' it be almoſt incredible to any body who has not been there, to believe the great waſtes and Poverty which generally reigns through<g ref="char:EOLhyphen"/>out the Kingdom, ſave in ſome parts of the North, and in and about <hi>Dublin,</hi> and a few other Towns which are better then the reſt; yet the
+<hi>Commons</hi> were reſolved to bear any thing they could rather than be further burthenſome to this Kingdom; And therefore Voted a Sum not exceeding
+70000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and ſpent ſome time in finding the ways and means how to do it with the greateſt eaſe to the Country. But thereafter were brought to us (by Mr. <hi>Poultney</hi> as I think) two Bills which had been prepared by the Council Board, the one for the ſaid Additional Exciſe, which was pretty well liked for its ſubſtance, and the other as was ſaid for a Charge of 15 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+               <hi>per</hi> Acre on all Corn in the Kingdom, which was thought very unequal in it ſelf, there being very great differences of Corn, and of the ſe<g ref="char:EOLhyphen"/>veral ſorts, and the Graſiers and Traders greatly eſcaping the Tax of ſo many People ſtar<g ref="char:EOLhyphen"/>ving for want of Bread. It was thought ſtrange by ſome, why theſe Bills ſhould have been kept from us ſo long, to let us ſpend ſo much time as aforeſaid; after they were ten<g ref="char:EOLhyphen"/>dred it was greatly diſli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed that the Privy Council ſhould prepare Money Bills, before the Heads of them were firſt found and prepared by the
+<hi>Commons.</hi> And here I would unde<g ref="char:EOLhyphen"/>ceive any of your Lordſhips who have been told that we intended by that or any other proceeding to avoid
+<hi>Poynings</hi> Law, being the 10th. of H. 7. And thereby make our ſelves Independant as they call on this Kingdom. For what we did was to aſſert the
+<hi>Commons</hi> ha<g ref="char:EOLhyphen"/>ving the ſole Right of firſt finding or propoſing the Heads of Bills for raiſing Money; and that when the <hi>Cummons</hi> had propoſed them to the Council Board, the Council Board ſhould draw them into Bills, and tranſmit them into <hi>England,</hi> to be tranſmitted back ac<g ref="char:EOLhyphen"/>cording <pb facs="tcp:94259:4"/>to the Method of <hi>Poynings</hi> Law; which Vote was made on the 27th. of <hi>Octob.</hi> and 7 days after that we were prorogued, and the Cauſe aſſign'd by his Excellencies laſt Speech of the 3d of
+<hi>Novem.</hi> for his diſpleaſure againſt us was Printed, is that he is troubled that we who had ſo many Obligations to be Loyal and Dutifully Affected to their Maje<g ref="char:EOLhyphen"/>ſties, ſhould ſo far miſtake our ſelves as to intrench upon their Majeſties Prerogative and Rights of the Crown of
+<hi>England,</hi> as we had done by our ſaid Vote of the 27th of
+<hi>October,</hi> and of the ſubſequent Vote of rejecting a Bill Entituled,
+<hi>An Act for granting to their Ma<g ref="char:EOLhyphen"/>jeſties certain for one year,</hi> which was the Corn Bill, becauſe it had its riſe firſt from the
+<hi>Commons,</hi> and therefore he requires his Proteſt againſt thoſe Votes to be entred in the <hi>Lords</hi> Books, or to that effect, and ſo Prorogued we were to the 6th. of <hi>April.</hi>
+            </p>
+            <p>It was thought by many Members there preſent, that his Excellency had ſaid we had be<g ref="char:EOLhyphen"/>haved our ſelves undutifully, &amp; ingratefully in invading their Majeſties Prerogative and to that effect; and if they were in a miſtake, I confeſs I was in the ſame; but I find little difference in my apprehenſions between thoſe Words, and the meaning of the ſaid Ex<g ref="char:EOLhyphen"/>preſſions in the Printed Speech; However this was very unkindly taken, and thought ſtrange that this ſhould be the cauſe of our parting in that manner, conſidering firſt, for that the Reaſons appeared, as was generally thought, for the right of the Vote to be with us. In that I think no body can reaſonably deny but that <hi>Poynings</hi> Act was not intend<g ref="char:EOLhyphen"/>ed to deveſt the <hi>Commons</hi> of that Original Right, but that it was deſigned chiefly to pre<g ref="char:EOLhyphen"/>vent the danger of an <hi>Iriſh</hi> Intereſt, being too prevalent with a Chief Governor there, to the prejudice of the
+<hi>Engliſh.</hi> And the ſame reaſon which was before the Act for the
+<hi>Commons</hi> to begin Money Bills ſtill remains that they are preſumed to know better than the Council what Money the Country is able to bear, and how it may beſt be raiſed, with eaſe to the Subject. But that was not much inſiſted on in the Caſe, For that we propo<g ref="char:EOLhyphen"/>ſed only to purſue
+<hi>Poynings</hi> Act as aforeſaid, and having alſo the Act of the 3d. and
+4th. <hi>Ph.</hi> and <hi>Mar.</hi> Explicatory thereof, and finding the Reaſons as to moſt of us ſeemed, with us, we inſpected the Journals of the Houſe, and tho' perhaps ſome time upon an Emergen<g ref="char:EOLhyphen"/>cy, and for an Expedition this Right might be Overlookt for a time yet.</p>
+            <p>Hereupon it ſeemed after the Debate to be the general Opinion of the Houſe that Right was for us, but it was much preſſed that for ſupply of the preſent Neceſſity of the Govern<g ref="char:EOLhyphen"/>ment, we ſhould paſs theſe two Bills with a <hi>ſalvo</hi> to our Right, which was not at firſt well liked by ſome, Namely Mr. <hi>Hamilton</hi> of
+<hi>Taltimore,</hi> my ſelf, and others, who thought it no good Expedient to yield the Right, and have only a <hi>ſalvo</hi> for it, the rather for that we were ready to have come if we had been called ſooner, and were now deſirous to ſtay till we might raiſe the Money in our own way: And ſo we might have ſome of our other Laws go hand in hand with the Money Bills, whereas the other way the Money would be given, &amp; the Laws might be left behind; However an Expedient and the preſent giving ſome Money was ſo earneſtly preſſed, that the Houſe for ought appeared, became all una<g ref="char:EOLhyphen"/>nimous in what was done, that is, in paſſing the <hi>Exciſe Bill,</hi> which was to raiſe the ready Money, with a Declaration that it was only for this time, and ſhould be never drawn again into Preſident, and by aſſerting the Right by the ſaid vote, and by rejecting the Corn Bill for the ſame reaſon of not having its firſt riſe from the <hi>Commons,</hi> which was all done, and was by many reckoned a great complyance, and not doubted but it would be pleaſing to his Excellency. For this laſt Expedient was particularly propoſed and proſecuted, as I was credibly informed by
+<hi>Brodrick</hi> by ſome of the Privy Council, as Col. <hi>Cook</hi> who had fre<g ref="char:EOLhyphen"/>quent Acceſs to his Excellency, and ſeemed to underſtand his mind and think it appears by the votes that they paſſed <hi>Nemine contra dicente</hi> on this Matter.</p>
+            <p>It was yet the ſtranger to many of us, becauſe Sir <hi>Cyril Wyche</hi> on <hi>Wedneſday</hi> 2d. of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> 
+               <pb facs="tcp:94259:5"/>reported from his Excellency to the Houſe, that he had heard a good Character of Dr. <hi>Warkington</hi> the Chaplain of the Houſe, but being recommended by the Houſe to his Ex<g ref="char:EOLhyphen"/>celency, he would on that account take more care of him. And ſo on other Occaſions
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hi Excellency was pleaſed to return very good Anſwers to the Addreſſes of the Houſe. And farther the ſame day, <hi>Wedneſday</hi> the 2d. <hi>Novem.</hi> He reported from his Excellency, that he had appointed <hi>Friday</hi> next for the Committe to attend him in Council, with the Heads of the new Laws we had prepared, which made many of us think that his Excellency had not then reſolved to Prorogue us on <hi>Thurſday,</hi> which was the only intervenient day, how<g ref="char:EOLhyphen"/>ever it was done on <hi>Thurſday</hi> the 3d. &amp; was reckoned a greater loſs to us, for that the Heads of the Laws we had prepared to tender him, were of very great conſequence to the Nati<g ref="char:EOLhyphen"/>on, <hi>viz.</hi> The Heads of <hi>Habeas Corpus</hi> Act, of the Act for reſtraining the Juriſdiction of the Council Board, of the Act againſt buying and ſelling of Offices, of the Act againſt Frauds and Perjuries, with ſeveral other good Laws of Force here but not there. But being Pro<g ref="char:EOLhyphen"/>rogued the day before, we had not the Opportunity ſo much as to tender them. It was only told us on the Prorogation by the Lord
+<hi>Chancellor,</hi> that his Excellency being inform<g ref="char:EOLhyphen"/>ed of what Heads we intended to tender him, He would take them into Conſideration, and againſt the next meeting of <hi>Parliament</hi> ſuch of them as ſhould be found requiſite, ſhould be in a readineſs to be brought into
+<hi>Parliament.</hi> And I am now credibly informed that ſome of them are prepared, but the <hi>Habeas Corpus Bill</hi> which I value more then all the reſt, I am told is to be left behind, and ſo is not thought requiſite as I believe.</p>
+            <p>It was yet the ſtranger, that in theſe 7 dayes we had been very buſy by a <hi>Poll Bill</hi> to raiſe the reſt of the Money, and intended to do it ſooner that way then the Corn Bill would have done, which could not be till next Harveſt. And alſo for that we were then coming upon the more cloſe purſuit of our Grievances, and the imbezilments of the Revenue, in which we thought we were at our Duties.</p>
+            <p>And after all this heat about (as we ſaid) our intrenching on the Prerogative, it was conſidered that it was of great uſe to the Subject, that the <hi>Commons</hi> ſhould have that right, if they are willing to give the Money. It ſeemed to many but reaſonable to let them find the eaſieſt wayes of raiſing it. But on the other ſide, ſuch a Prerogative as that the Coun<g ref="char:EOLhyphen"/>cil Board may firſt find the Ways of raiſing Money, I could not ſee of what uſe it could be, unleſs it were to occaſion more heats; For the <hi>Commons</hi> without doubt has a
+<hi>Nega<g ref="char:EOLhyphen"/>tive Vote,</hi> and can throw it out; beſides that I could not ſee how this Claim comes by the name of Prerogative, which I take to be an ancient inherent Right of the Crown. But whatever can be ſaid of this muſt be drawn from <hi>Poynings</hi> Act and the the 3d. and 4th. of <hi>Ph.</hi> and
+<hi>Mary,</hi> or ſomething ſince <hi>Poynings</hi> Law.</p>
+            <p>Now for what happened ſince the Prorogation, many of the Members thought it very neceſſary to have Agents to attend their Majeſties here on the behalf of the Proteſtants, to render them and their proceedings right in their Majeſties Opinion, as alſo to ſolicite ſuch Matters as might happen relating to them. Which way of ſending Agents hither had been heretofore uſed, but was done as ſome affirm, by conſent of the Government there. Wherefore to purſue the former method, a Petition was preſented to his Excellency by Sir <hi>Robert King,</hi> and Sir <hi>Arthur Rawden,</hi> Sir <hi>Arthur Langford</hi> and Mr. <hi>Anneſly,</hi> and Signed by them on the behalf of themſelves and others, which was no more in ſubſtance than to pray leave to appoint Agents to attend their Majeſties, to which his Excellency (as they declared) delivered this Anſwer, that they could not have a better Agent than the King himſelf, who had been Agent for the Proteſtants for theſe twenty years, but if they would have leave for any to go over and beg the King pardon for their Rio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous and Seditiou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Meetings, they might have it, or to that effect. This ſounded very hard in the Ears both <pb facs="tcp:94259:5"/>of the Gentlemen to whom it was ſaid and others, who believed them to be men of Great Value and integrity. But this was not the end, for there was, as I believe may be pro<g ref="char:EOLhyphen"/>ved, a dir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction to proſecute them upon an Information in the <hi>Kings Bench,</hi> which they were reſolved to defend, but it ſeems it was better conſidered, and they were let alone.</p>
+            <p>This of having Agents here, was thought the more neceſſary, for that the <hi>Papiſts,</hi> as many affirmed, have Agents to Solicite their Affairs here, and make Collections for them in <hi>Ireland,</hi> &amp; if the <hi>Prot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtant<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> had Agents here, it is not like that ſuch Bills would have
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een ſent them without amendment, as ſome were now Tranſmitted to the Parliament, with very fair Titles, but rejected for the Bodys of them, As a Bill to confirm the Act of Settle<g ref="char:EOLhyphen"/>ment, which is much wiſhed for, but there were ſuch things therein, that inſtead of con<g ref="char:EOLhyphen"/>firming, it would have ſet things much looſer than they were, as many ſeemed to think, for which it was rejected. And the ſame fate found a Bill for reverſing the proceedings of Attainder, paſſed when the late King was there, which had been very welcome to many
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imerous People there, yet was rejected by reaſon of a Clauſe in the body thereof. It fai<g ref="char:EOLhyphen"/>red no better with a Bill for puniſhing Mutineers and Deſerters, which probably had paſſed if it had been as the Act for that purpoſe here is, but it was to continue for 3 Years, &amp; from thence to the next Seſſion of Parliament, which was ſo uncertain, and the Clauſes relating to the regulating Quarters left out, that chiefly as appeared to me for theſe rea<g ref="char:EOLhyphen"/>ſons it was rejected, and alſo for that it would have had ſome days retroſpect, before it could have paſſed, and the Heads of another were ordered to be brought to ſupply it. And another was a Bill to Erect and Eſtabliſh the Militia, which the Houſe as appeared to me were very deſirous to do for the publick ſafety, but this as drawn would have brought a burthen on the Subject, as was offered, more then we thought them well able to bear, be<g ref="char:EOLhyphen"/>ſides the great penalties and Arbitrary ways of Taxing and raiſing the Money, and an O<g ref="char:EOLhyphen"/>bligation thereby to find more Men to ſerve in ſome Counties then there were Proteſtants in ſuch C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>unties, as ſome of the Members ſaid. For which among other faults, and for that being a charge on the Subject, and not having the Heads firſt propoſed by the <hi>Houſe of Commons,</hi> that Bill was alſo rejected, and the Heads of another ordered to be prepared.</p>
+            <p>Mr. <hi>Osborne,</hi> and Mr, <hi>Brodrick</hi> their Majeſties two Serjeants at Law were preſently af<g ref="char:EOLhyphen"/>ter the Prorogation ſuſpended or diſcharged, and ſince that have been turned out even of the Commiſſion of the Peace, as I have been credibly informed.</p>
+            <p>The ſaid Si<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hur Rawdon</hi> was ſuperſeded or diſcharged of being Governour of the County of
+<hi>Down,</hi> and that Command or Government was firſt offered to the Earl of <hi>Dun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igal,</hi> and then to the Earl of <hi>Mount-Alexander</hi> as I have been credibly informed, who both <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efuſed it, and I do not hear that to this day any body has accepted thereof.</p>
+            <p>The Conſequence of the ſaid Matter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (as I have been credily told) have happened ve<g ref="char:EOLhyphen"/>ry evil to the Publick, for the Plante<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are diſcouraged, and perſons who came hither with their Stocks and Money from <hi>Scotland,</hi> and elſewhere, are removed again, and ſo are others of the Ancient Inhabitants, and ſo much the Country is like ſtill to lye longer waſte
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd depopulated, while theſe diſſatisfactions continue.</p>
+            <p>I fear I have been too tedious, which I hope will be excuſed by your Lordſhips by the greatneſs and variety of the Subject, and for what uncorrect Expreſſions may have eſca<g ref="char:EOLhyphen"/>ped me (as I believe there are many) I hope the ſtraitneſs of
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime, ſcarce being able to re<g ref="char:EOLhyphen"/>view or peruſe it, will procure my Pardon from your Lordſhips; but I have endeavou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed as ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r as I can, purſuant to your Lordſhips Directions, to ſet forth the Truth, and nothing elſe to the beſt of my knowledge, remembrance and belief, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t I hope will always juſtify it ſelf.</p>
+            <closer>
+               <date>2d. <hi>March.</hi> 1692.</date>
+               <signed>JAMES SLONE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:94259:6"/>
+            <opener>
+               <salute>May it pleaſe your Lordſhips,</salute>
+            </opener>
+            <p>I Humbly pray your Lordſhips pleaſure, whether in the Account your Lordſhips are pleaſed to Command from me of the Eſtate of
+<hi>Ireland</hi> I may uſe Names, without which the Account I ſhall make will not be perfect.</p>
+            <p>That then I humbly lay at your Lordſhips feet will chiefly ariſe from my Obſervatio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Parliament of <hi>Ireland,</hi> in which I had the honour to be a Member, and one of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mitte of Grievances and Accounts.</p>
+            <p>Before the Committe of Grievances there was brought ſo many Complaints of the un<g ref="char:EOLhyphen"/>equal diſpoſition of Lands, and chiefly againſt Mr.
+<hi>Calliford,</hi> that the Committe fearing they ſhould not have time to proceed on greater Grievances of the Nation, made one ge<g ref="char:EOLhyphen"/>nerall Vote, that it was a Grievance and great breach of Truſt, for the Commiſſioners of the Revenue to ſet forfeited Lands to themſelves or any in truſt for them, or any imployed under them; too many inſtances of which came before the Committe. I dare not pre<g ref="char:EOLhyphen"/>ſume on your Lordſhips time to relate the main grievous Complaints of diſpoyled Prote<g ref="char:EOLhyphen"/>ſtants, turned out of the Farms they were formerly in, and ſome that had their Lands ta<g ref="char:EOLhyphen"/>ken away from them after they had Plowed and Sowed it, and then ſet to <hi>Iriſh</hi> for a fifth of what they payd.</p>
+            <p>Others their Lands ſeized contrary to Law, their Goods and Cattle taken out of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Country and brought to <hi>Dublin,</hi> that ſo they might be under an Attachment for Debt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>England,</hi> being asked why they complained not to the Government, gave ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch reaſons a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I am loath to repeat.</p>
+            <p>With your Lordſhips leave, I now come to the Diſpoſition of forfeited Lands; and tho' the Methods pretended for Setting them was very fair, yet the practice was differin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from it. Articles was uſed, that few had liberty of bidding for the Lands they Lived o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but by all I could find in the Books and Rent-Role the Greateſt part of the La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds were S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for private Advantage to Favorites or ſome concerned in the Revenue, or in truſt f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> others, as the Lord Chief Baron <hi>Heyley, Judge Lindon,</hi> ſeveral of the beſt Farms near
+<hi>Dubli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> taken in the name of a Hackney-Coachman, by the beſt information I could get and mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of the Books and Rent-Role, the Lands were generally ſet for one fourth of the pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſent Value.</p>
+            <p>I found by the Books and Rent-Role, that the forfeited Lands were ſet the firſt y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for 32000
+<abbr>
+                  <hi>l.</hi>
+               </abbr> and this was when only two of the Provinces were intirely under his Maje<g ref="char:EOLhyphen"/>ſties Obedience.</p>
+            <p>The ſecond Year when the other two Provinces were under his Majeſties Governmen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and intire Peace, then all the forfeited Lands were ſet for about 10000
+<hi>
+                  <abbr>l.</abbr> per Annum,</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the reaſon of this being asked, I was anſwered by ſome in the Revenue, that it was th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Articles of <hi>Limerick</hi> made ſo great a fall in the forfeitures, but that could not be the Cauſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for there was much more added to the forfeitures by the ſurrender of <hi>Galloway</hi> and <hi>Lim<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rick,</hi> which brought in two Provinces, than there was reſtored, tho' it was ſaid by th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lords Juſtices Interpretations of the Articles of <hi>Galloway,</hi> There were ſome put in poſſe<g ref="char:EOLhyphen"/>ſion of Lands they had no Right to; this Diſpoſition of the forfeited Lands was ſo not<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rious that it put the Committe of Accounts off from any further inquiry, and intended report of the Lands as they muſt of the forfeited Goods, that they were generally imbe<g ref="char:EOLhyphen"/>led, in my humble Opinion to the Value of ſome Hundred thouſands of Pounds.</p>
+            <p>The next thing the Committe of Accounts looked into was the Accounts of forfeit <pb facs="tcp:94259:6"/>Goods which was ſo framed that it would have taken up Months to have brought it in<g ref="char:EOLhyphen"/>to Methods that might be underſtood. The Account ſeemed nothing but a trick, neither Cheeque nor Vochers, Method nor Form who to Charge, but ſo looſe that every Offi<g ref="char:EOLhyphen"/>cer imployed in them muſt be examined before a Charge could be made on any one of them, but upon the whole I found there was not brought to the Kings Account above 1800
+<abbr>
+                  <hi>l.</hi>
+               </abbr> and about 5000 charged for Goods as I remember on the Army that they had ta<g ref="char:EOLhyphen"/>ken, but I ſaw not ſuch care taken to charge others that had greater Shares of the Goods, ſo that 135000 <abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Goods delivered into the Commiſſioners Charge, and near as much ſaid to be privately diſpoſed of in the Country by the Commiſſioners of the Revenue by private Orders from Mr. <hi>Calliford.</hi> Of all there appears not 10000 <abbr>
+                  <hi>l.</hi>
+               </abbr> brought to their Majeſties Account.</p>
+            <p>Yet I muſt acquaint your Lordſhips, that there ſeemed great diligence in the Govern<g ref="char:EOLhyphen"/>ment to inlarge the Forfeitures, as will appear in an inſtance I beg your Lordſhips leave to Mention.</p>
+            <p>There was one <hi>Ivy,</hi> now Knight of the Shire for the County of <hi>Waterford,</hi> This Gentle<g ref="char:EOLhyphen"/>man upon his flight for <hi>England</hi> from the <hi>Iriſh</hi> Government, had his Eſtate and Goods Sei<g ref="char:EOLhyphen"/>zed, and upon his return ſound a Quantity of his Wool in King <hi>James</hi>'s Stores in <hi>Water<g ref="char:EOLhyphen"/>ford,</hi> upon which he made application to the Government to have his Wool reſtored, but could obtain nothing but Referrences from one ſet of Commiſſioners to another, but at laſt had his final anſwer, that he muſt go to the Exchequer, and they told him that he muſt proceed by due Methods of Law, which he did, the Kings Council demurred, and he obliged by the Court to joyn or anſwer. I beg your Lordſhips pardon if I expreſs it not according to the Rules of Law, but ſo it was upon ſome nicety in the Law, Judgement was given againſt him, and he loſt his Wool. This was ſet forth in a Petition to the Parlia<g ref="char:EOLhyphen"/>ment, and put into my hands to move, but there was in our Seſſions no Room for Private Grievances, our Publick were ſo many. And therefore the Gentleman was only pittied among the Number of afflicted Proteſtants.</p>
+            <p>The <hi>Iriſh</hi> that came in upon the Kings firſt Proclamation were better uſed, having the right ways to get their Goods, which few of the <hi>Engliſh</hi> could do.</p>
+            <p>The next Inquiry, May it pleaſe your Lordſhips, that the Committe of Accounts made, was relating to the Stores, and in the Manage of them, found Mr. <hi>Robinſon</hi> to be princi<g ref="char:EOLhyphen"/>pally concerned. The Stores that were left by K. <hi>James</hi> were ſaid to be great both of Proviſions and Cloaths, but of all there did appear nothing: the noiſe indeed was great that Mr. <hi>Robinſon</hi> had managed the Stores to the Advantage of ſome body, to the Value of 80000 <abbr>
+                  <hi>l.</hi>
+               </abbr> but ſo ingeniouſly it is managed that I preſume nothing Material can be pro<g ref="char:EOLhyphen"/>ved whilſt the Manage of that Kingdom in theſe things are of a piece. Mr. <hi>Robinſon</hi> is be<g ref="char:EOLhyphen"/>ſides his other Employments, one of the Deputies to the Lord <hi>Coningsby</hi> in the Treaſury, and who ere has power in that influences moſt men of Imployment in that Kingdom. One Artifice I was told of by a Commiſſioner of the forfeited Goods, that was uſed in
+<hi>Cork,</hi> which ſeemed deſigned to ſerve for a pretence in general for the imbezilments of the Stores, and that was keeping Corn, Oats I think it was 5 or 6 foot thick till it rotted, when at the ſame time both Soldiers and inhabitants were in extremity, this rotting of Corn is thought will be a general Article through the Kingdom, it was ſaid there was quantities of Beef, Butter, and other Proviſions put for <hi>France,</hi> and that a Ship of Wool taken out of the Stores of <hi>Waterford</hi> by Mr.
+<hi>Robinſon</hi> under pretence of being uſed at the <pb facs="tcp:94259:7"/>Siege of
+<hi>Cork</hi> was diſpoſed by Mr. <hi>Robinſon,</hi> and ſometime after, a Ship was taken by o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Capt. <hi>Peder,</hi> Commander of one of their Maj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties Ships coming from
+<hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt</hi> to
+<hi>Ireland</hi> La<g ref="char:EOLunhyphen"/>den with <hi>French</hi> Goods, the Captain brought her into <hi>Waterford,</hi> and there received Or<g ref="char:EOLunhyphen"/>ders from the Government to deliver her up to the Officers of the Cuſtom Houſe, for tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhe belonged to
+<hi>Dublin,</hi> the Captain refuſing, threatning Letters came to him, and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he ſaid they had beſt be quiet, for that he had taken ſuch Letters of their ſettling a Cor<g ref="char:EOLhyphen"/>reſpondance in <hi>France</hi> as would do their Buſineſs.</p>
+            <p>The relation of the Ship I had from a Collonel that is at the Door ready to give you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lordſhips a more full Account as he had it from the Captains own Mouth.</p>
+            <p>I ſhall now with your Lordſhips leave give the Remarks I made on the Manage of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Treaſury, which was never before in the hands of the Chief Governour. The former me<g ref="char:EOLhyphen"/>thods were that all Receipts and Payments were tranſacted by Exchequer Acquittances and they were entred in ſeveral Offices, the laſt of which was the Pells, where all was en<g ref="char:EOLhyphen"/>tred, and every <hi>Munday</hi> morning the Book brought before the Chief Governour, by which he knew what was in the Treaſury, this cannot now be practicable, where moſt of the Receipts and Payments are by Paper aſſignments, by which means there is no Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cque o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Treaſury, nor indeed on the reſpective Collectors and Receivers, the conſequence of which is to be feared has and doth affect the ill payment of the Army, and that ruines th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Country, which is the reaſon of my laying it before your Lordſhips. There was ſome mo<g ref="char:EOLhyphen"/>tion made in the Parliament of <hi>Ireland</hi> of the hardſhips the Country lay under by Free-Quarters, but it was unanimouſly agreed by the Houſe, that there was a neceſſity for the Army ſo to do, and that the Country freely gave them the bread out of their Mouths, and the Cloaths from their Backs to ſupport the Army when they had no Pay. But that which grieved the Subject was the irregular and unlimited way of taking their Corn and Cattel from them, by which more was deſtroyed then eaten, and that brought a Famine in the Country, and the loſs of thouſands of people. This was complained of to the Lords Ju<g ref="char:EOLhyphen"/>ſtices, and Offers made by the Country, either to pay the Army, or give them ſuch quanti<g ref="char:EOLhyphen"/>ties of Proviſions as they ſhould need, and ſo keep the Country in a poſſibility of ſupply<g ref="char:EOLhyphen"/>ing both the Army and themſelves. But this was rejected, which together with the belief of that there was enough if rightly applyed of Forfeitures and Stores to have maintained the Army without any burthen to the Country, cauſed hard reflections on the L. <hi>Coningsby,</hi> I ſpeak this not to reflect on his Lordſhip, for that I never had any concern with his Lord<g ref="char:EOLhyphen"/>ſhip, but as my Eſtate lay under the common Calamity of his Government. There was another Grievance much complained of, and that was the giving Protections to
+<hi>Iriſh</hi> againſt juſt Debts owing to the <hi>Engliſh,</hi> to ſuch as were not under the Articles of <hi>Limerick,</hi> when poor deſtroyed Proteſtants were left to the <hi>Iriſh</hi> Suits.</p>
+            <p>I muſt now beg leave to lay at your Lordſhips feet, the preſent condition of that ever Loyal and obedient City, the City of
+<hi>Dublin,</hi> of which I have the Honour to be a Member, this City has never till now been denyed their right of Chooſing Magiſtrates, which un<g ref="char:EOLhyphen"/>der the Cover of a Clauſe in the new Rules of Proving, is become an impoſition, excluding any choice untill the Man put on them to be choſen, this is the caſe of the preſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Mayor now in the ſecond year of his Majoralty. The City at firſt, according to their ancient Cu<g ref="char:EOLhyphen"/>ſtom choſe another, but were rejected; I hope your Lordſhips will not take me to reflect on the Man, when I ſay as he was the laſt of many in turn to be choſe, ſo he was the leaſt in his fortune, There being many of conſiderable Eſtates, and known integrity and Loy<g ref="char:EOLhyphen"/>alty to their Majeſties over whoſe heads he came.</p>
+            <pb facs="tcp:94259:7"/>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt further pray your Lordſhips leave to mind your Lordſhips that this Gentleman by
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntereſt of ſome it is thought that ſtill promotes him, was recommended by his Majeſty when
+<hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reland</hi> to be Treaſurer of the City, but his Majeſty on the firſt application graciouſly recal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his firſt recommendation, ſaying he would abrige none of the Privileges of the City but in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Election of this Major, they were not ſo uſed by the Lords Juſtices, and as this Impoſition <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s new unto them, ſo it was unexpected, having ſo lately received with their Deliverance<g ref="char:punc">▪</g> Majeſties gracious promiſe that they ſhould enjoy all their Priviledges, and ſo they did by Majeſties Command, untill this Command of the Lords Juſtices. Theſe new Rules were in
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce in the beſt days
+<hi>Ireland</hi> ever ſaw under the happy Government of the Duke of
+<hi>Ormond;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Grace never made uſe of them for more than they were intended a power in the hands
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Government, to lay aſide ſuch as were queſtionable in their Loyalty, which that City hath
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er yet been tainted in.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dare not ſtay your Lordſhips longer to ennumerate all the oppreſſions that poor Kingdom
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> under; but what I have ſaid I humbly affirm will be aſſerted by thouſands in <hi>Ireland.</hi> All <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch I humbly pray your Lordſhips to receive as in truth I intend it, for their Majeſties ſer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, &amp; the relief of their oppreſſed Subjects in <hi>Ireland</hi> among whom I am one.</p>
+            <closer>
+               <signed>F. Brewſter.</signed>
+            </closer>
+         </div>
+         <div type="certification">
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Obedience to an Order of the Lords Spiritual and Temporal, aſſembled in Parliament, the
+<hi>28 Feb. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 1692.</hi> I
+<hi>Sir Will. Gore</hi> of <hi>Donnegale</hi> in the County of
+<hi>Donnegal</hi> and Kingdom of <hi>Ireland Ba<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ronet</hi> do hereby humbly certify.</head>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Hat a part of their Majeſties Forces had free Quarters in the County of <hi>Donnegal,</hi> &amp; other Counties in the Kingdom of <hi>Ireland,</hi> during the late War, and ſometime after, upon <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r Majeſties Proteſtant Subjects, and took much of their Goods, for which they did not make
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>isfaction, and that when I demanded Satisfaction of ſome of the Officers of Collonel <hi>Tyffins</hi>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>giment and others who Quartered longeſt there, they did aſſure me their pay was ſtopped
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atisfie the ſaid Quarters, and what was taken from the Inhabitants by their Men.</p>
+            <p>That about 1500 <hi>Iriſh</hi> Officers and Soldiers, moſt of them Armed, under the Command of
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gadier <hi>O Donnel</hi> (as they ſtiled him) were quartered for the moſt part on the Proteſtant In<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>itant; of the County of
+<hi>Donnegal,</hi> with a great rabble of Wives, Children and other depen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts, for a conſiderable part of the Winter <hi>Anno</hi> 1691. during which time their Officers took
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cattle by force from the Country people, and particularly from <hi>James Hammond,</hi> and <hi>Hugh
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>derſon,</hi> who live near the Town of <hi>Donnegal,</hi> by which they and many others were extream<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> improveriſhed, that the ſaid Quarters were not ſatisfied, or Cattle paid for when I left that <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>gdom, which was about
+4 Months ago, nor can I hear that they have been paid for ſince. That the ſaid Officers and Soldiers were extream inſolent during their being quartered as <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>eſaid, demanding of me the Abby of <hi>Donnegal</hi> to ſay Maſs in, and cauſing their Prieſt to ſay <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> publickly in the Town and next houſe to the Caſtle of <hi>Donnegal,</hi> who being rebuked for it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he was King <hi>Williams</hi> Chaplain, as being Chaplain to one of Brigadier
+<hi>O Donnels</hi> Regiments
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t was in the Kings pay, as I was informed by thoſe that ſpoke to him on this occaſion, They
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re extreamly importunate for liberty to Quarter their Women.</p>
+            <p>That the method of diſarming them was thus, They were warned to appear &amp; bring in their
+<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s on a certain day to the Governor of the County, that they knew they were to be diſar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, ſome of their Officers having told me ſo, by which means they brought in a moſt incon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rable number of unfixed Arms, and kept the beſt which I believe they have ſtill, that I preſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Governor of the County to clap up one of the Officers that I knew had a great number
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Muſquets, and did not deliver them, but he excuſed himſelf for want of Orders.</p>
+            <p>That I have been lately informed by Letters, that the Kings Rent which is a Chiefrent pay<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> out of moſt Eſtates into the Exchequer of <hi>Ireland,</hi> are demanded from the moſt Eſtates in <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ght</hi> and elſewhere, which may keep waſte, none daring to Plant them for fear of being diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed; That I have received but four Pound ſince the year 1688. Out of an Eſtate that pays <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t
+66 <abbr>
+                  <hi>l.</hi>
+               </abbr> Yearly into the Exchequer, that by the preſent Collecting the ſaid Rents many Eſtates <pb facs="tcp:94259:8"/>may be ruined, &amp; run more &amp; more in Arrear, except their Majeſties will be pleaſed to for
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> till the wiſdom of a Parliament there, may take ſuch courſe in it as may be to their ſatisfact<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+            </p>
+            <p>All which I moſt humbly certify as truth having been a Spectator of moſt of the things h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in mentioned, as witneſs my hand this <hi>1ſt.</hi> of <hi>March</hi>
+1692.</p>
+            <closer>
+               <signed>
+                  <hi>Will.
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <head>
+               <date>Die Jovis <hi>2.</hi> Martij <hi>1692.</hi>
+               </date>
+            </head>
+            <p>IN Obedience to your Lordſhips Commands, to give my Reaſons why I did not mention <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which was given to me for Reaſons why thoſe perſons that were aggrieved by the Gove<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment in
+<hi>Ireland</hi> did not complain to the Lords Juſtices, was this, That they obſerved and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> believe nothing was done by the Commiſſioners of the Revenue but what was agreeable to t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Majeſties pleaſure.</p>
+            <p>In obedience to your Lordſhips further Commands, to explain who I mean by ſaying it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thought Mr. <hi>Robinſon</hi> had diſpoſed of the Stores, to the Value of
+8000 <abbr>
+                  <hi>l.</hi>
+               </abbr> for the uſe of ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Body, I mean my Lord <hi>Coningsby</hi> and himſelf.</p>
+            <p>Your Lordſhips are further pleaſed to command me to name who told me that it was t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> purpoſe to complain to the Government of any Grievance, and that they ſhould be treated <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Enemies if they did, was Mr. <hi>Joy</hi> in the caſe of his Wool, Mr. <hi>Henry Davies</hi> in that of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Panns ſet to Judge <hi>Lindon,</hi> and by Mr. <hi>Cocker</hi> in that of the Imbezlement of the Forfe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Goods and Stores, He further adding that he had a ſmall Imployment which he believe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould have loſt if he had appeared in any ſuch thing.</p>
+            <p>Mr. <hi>Edward Haines</hi> a Sheriffs Peer, and one of the Common Council of the City of <hi>Dub<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> told me, that tho he and ſeveral others had a deſire to complain of the Grievance in deny<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the City their Right of Electing their Lord Major, they durſt not do it, for that the Lords
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtices looked upon any that complained as Enemies, and that he was Indicted by the Lord
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>jors order at their own Quarter Seſſions, for appearing in the right of the City, tho the p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tence was for Words he ſpake, and the Lord Major being not able to prevail with the Gr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Jury to find the Bill, he was Indicted at the Kings Bench, and that he had heard they wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Ruine him. There was Mr. <hi>Flood</hi> and ſeveral others that made Complaints of the like Nat<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+            </p>
+            <closer>
+               <signed>Fran. Brewſter</signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <head>
+               <hi>One of the Earl of</hi> Mulgraves <hi>Speeches in Parliament about the Bill Entituled</hi> An Act for the f<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dom of Elections and more impartial Proceedings in Parliament, <hi>paſſed in the Houſe of</hi> C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mons <hi>and ſent up to the Lords, in the Winter Seſſions of Parliament,</hi> Anno 1692. <hi>as it was t<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in ſhort hand.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>THis Debate is of ſo very great conſequence, that I reſolved to be ſilent, and rather t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> adviſed by the ability of others, then to ſhow my own want of it. Beſides it is of ſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Nature, that I who ſpeak always unpremeditately, apprehend extreamly, ſaying any th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which may be thought the leſt reflecting, tho even that ought not to reſtrain a man here fr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> doing ones duty to the publick in a Buſineſs where it ſeems to be ſo highly concerned.</p>
+            <p>I have always heard, I have always read that Foreign Nations and all this part of the w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> have admired and envied the Conſtitution of this Government. For not to ſpeak of the K<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Power, here is a Houſe of Lords to adviſe him on all important Occaſions about Peace or W<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> about all things that may concern the Nation, the care of which is very much intruſted to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lordſhips. But yet becauſe your Lordſhips cannot be ſo converſant with the generality o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> People, nor ſo conſtantly in the Country as is neceſſary for that purpoſe, here is a Houſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Commons</hi> alſo choſen by the very people themſelves, newly come from among them, or ſh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be ſo, to repreſent all their Grievances, to expreſs the true mind of the Nation, and to diſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of their Money, at leaſt ſo far as to begin all Bills of that nature; &amp; if I am not miſtaken the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> writ for Election ſent down to the Sheriffs does impower them to chuſe, what? their
+<hi>Repreſenta<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>Now my Lords, I beſeech you to conſider the meaning of that word <hi>Repreſentative.</hi> Is i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do any thing contrary to their mind? it would be abſurd to ſuppoſe it; and yet how can
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <pb facs="tcp:94259:8"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>herwiſe, if they, after being choſen, change their dependency, ingage themſelves in Employ<g ref="char:EOLhyphen"/>ments plainly inconſiſtent with that great truſt repoſed in them: and that I will take the liberty <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o demonſtrate to your Lordſhips they now do, at leaſt according to my humble opinion.</p>
+            <p>I will inſtance firſt, in the leaſt and loweſt incapacity they muſt be under who ſo takes im<g ref="char:EOLhyphen"/>ployments.</p>
+            <p>Your Lordſhips all know but too well what a general careleſsneſs there appears every day, more and more in the publick Buſineſs; if ſo how is it likely that men ſhould be as diligent in their Duty in Parliament as that Buſineſs requires, where imployments, and a great deal of other buſineſs ſhall take up both their minds and their time.</p>
+            <p>But then in ſome caſes 'tis worſe, as in Commands of the Army and other Imployments of that kind, when they muſt have a divided Duty: for it does admirably become an Officer to
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it Voting away Money in a Houſe of <hi>Commons,</hi> while his Soldiers are perhaps taking it away at their Quarters for want of his preſence to reſtrain them, and of better Diſcipline among them. Nay perhaps his Troop or Regiment may be in ſome Action abroad, and he muſt either have the ſhame of being abſent from them at ſuch a time, or from that Houſe where he is intruſted with our Liberties.</p>
+            <p>To this I have heard but one Objection by a noble Lord, that if this Act ſhould paſs, the King
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not allowed to make a Captain a Collonel, without diſabling him to ſit in Parliament.</p>
+            <p>Truly if a Captain has only deſerved to be advanced for expoſing himſelf in Parliament,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> think the Nation would have no great loſs in the Kings letting alone ſuch a Preferment.</p>
+            <p>But my Lords, there is another ſort of incapacity yet worſe then this, I mean that of Parli<g ref="char:EOLhyphen"/>ament Mens having ſuch Places in the Exchequer, as the very profit of them depends on the Money given to the King in P rliament.</p>
+            <p>Would any of your Lordſhips ſend and intruſt a Man to make a Bargain for you, whoſe ve<g ref="char:EOLhyphen"/>ry intereſt ſhall be to ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you give as much as he can poſſibly?</p>
+            <p>It puts me in mind of a Farce, where an Actor holds a Dialogue with himſelf ſpeaking firſt in one Tone, and then anſwering himſelf in another.</p>
+            <p>Really my Lords this is no Farce, for tis no laughing matter to undoe a Nation: but tis altogether as unnatural for a Member of Parliament to ask firſt in the Kings name for ſuch a ſort of ſupply, give an Account from him of how much is needful towards the paying ſuch an Army or ſuch a Fleet, and then immediatly give, by his ready Vote, what he had before asked by his Maſters order.</p>
+            <p>Beſides my Lords, there is ſuch a neceſſity now for long ſitting of Parliaments, and the ve<g ref="char:EOLhyphen"/>ry Priviledges belonging to Members are of ſo great extent, that it would be a little hard and unequal to other Gentlemen, they ſhould have all the places alſo.</p>
+            <p>All the Objections that have been made may be reduced to theſe:</p>
+            <p>
+               <hi>Firſt,</hi> tis told us, that tis a diſreſpect to the King, that his Servants or Officers ſhould be excluded</p>
+            <p>To this I deſire it may be conſidered, that tis in this caſe, as when a Tenant ſends up any bo<g ref="char:EOLhyphen"/>dy to treat for him: would any of your Lordſhips think it a diſreſpect, nay would the King himſelf think it any, if the Tenant would not wholly refer himſelf to one of your own Servants, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the Kings Commiſſioners in the caſe of the Crown? And if he chuſes rather ſome plain <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt Friend of his own to ſupply his abſence here, will any man blame ſuch a Proceeding, or
+<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>k it unmannerly?</p>
+            <p>Beſides your Lordſhips know this Act admits them to be choſen, notwithſtanding their im<g ref="char:EOLhyphen"/>ployments, provided the Electors know it firſt, and are not deceived in their choice.</p>
+            <p>All we would prevent is that a good rich Corporation ſhould not chuſe to Intruſt with all their Libertys a plain honeſt Country Neighbour, and find him within ſix Months, changed into
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> prefer'd cunning Courtier, who ſhall tyd them to their Cho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, tho he is no more the ſame man, than if he were turned Papiſt, which by the Law as it ſtands already, puts an incapaci<g ref="char:EOLhyphen"/>ty upon him.</p>
+            <pb facs="tcp:94259:9" rendition="simple:additions"/>
+            <p>Another Objection is, that this Act, may by its Conſequence, prolong this Parliament which they allow would be a very great Grievance, and yet ſuppoſe the King capable of put<g ref="char:EOLunhyphen"/>ting it upon us, which I have too much Reſpect for him to admit of; tho I am glad howeve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that tis objected by Privy Counſellers in favour, who conſequently I hope will never adviſe
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing which they now exclaim againſt as ſo great a Grievance.</p>
+            <p>But pray my Lords what ſhould tempt the King to ſo ill a policy? Can he fear a freedom of Choice in a people, to whoſe good will he owes all his Power, which theſe Lords ſuppoſe he may uſe to their Prejudice?</p>
+            <p>And therefore give me leave to ſay, as I muſt not ſuſpect him of ſo ill a Deſign as the Perpe<g ref="char:EOLhyphen"/>tuating this Parliament, ſo he cannot, he ought not to ſuſpect a Nation ſo intirely, I was going t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay, ſo fondly Devoted to him.</p>
+            <p>
+               <hi>My Lords, O Man is readier then my ſelf to allow that we owe the Crown all ſubmiſſion as to the time of calling Parlia<g ref="char:EOLunhyphen"/>ments according to Law, and appointing alſo where they ſhall ſit, but with reverence be it ſpoken, the King owes the Natio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> an intre freedom in Chuſing their Repreſentatives, and it is no leſs his Duty to God then his true intereſt, that ſuch a fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and juſt proceeding ſhould be uſed towards us.</hi>
+            </p>
+            <p>
+               <hi>Conſider my Lords of what mighty conſequence it may he, that ſo many Votes ſhould be free, when upon one ſingle one may depend the whole ſecurity or loſs of this Nation. By one ſingle Vote ſuch things may happen, that I almoſt tremble to think on. By one ſingle Vote a</hi> GENERAL EXCISE <hi>may be granted and then we are all loſt. By one ſingle Vote the Crown may be impowered to name all the Commiſſioners for raiſing the Taxes, and then ſurely we ſhould be in a fair way towards it.</hi>
+            </p>
+            <p>
+               <hi>Nay whatever has happened may again be apprehended; and I hope thoſe reverend Prelates will reflect, that if they gro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> once obnoxious to a prevalent Party, one ſingle Voice may be as dangerous to that Bench, as a general diſſatisfaction amo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the People proved to be once in a late Experience: which I am far from ſaying by way of threatning, but only by way of cautio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>My Lords. WE may think becauſe this concerns not the houſe of Lords, that we need not be ſo over careful of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Matter, but there are Noblemen in France, at leaſt ſuch as were ſo before they were enſlaved, who that they might dom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> neer over others, and ſerve a preſent turn perhaps, let all things alone ſo long till the people were quite Maſtered, and the No<g ref="char:EOLhyphen"/>bility themſelves too, to bear them company.</hi>
+            </p>
+            <p>
+               <hi>So that I never met a French man, even of the greateſt rank (and ſome had</hi> 10000 <hi>Piſtols a year in employments) that di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not envy us here for our freedom from that which they groan under: and this I have obſerved univerſally, except juſt Monſieu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de Louvoy, Mon. Colbert, or ſuch People, becauſe they were the Miniſters themſelves who occaſioned theſe Complaints, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thrived by the Oppreſſions of others.</hi>
+            </p>
+            <p>
+               <hi>My Lords, This Country of ours is very apt to be provoked, we have had a late experience of it, and tho no wiſe man, bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would bear a great deal rather then make a buſtle; yet really the people are otherwiſe, and will at any time change a preſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> uneaſineſs, for any other condition, tho a worſe; we have known it ſo too often, and ſometimes repented it too late.</hi>
+            </p>
+            <p>
+               <hi>Let them not have this new Provocation in being debarred from any Security in their Repreſentatives, for malicious People will not fail to infuſe into their minds that all thoſe vaſt ſums, which have been and ſtill muſt be raiſed towards this War, are no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſpoſed away in ſo fair a manner as ought to be; and I am afraid they will ſay their mony is not given but taken.</hi>
+            </p>
+            <p>
+               <hi>However whatere ſucceſs this Bill may may have with your Lordſhips, there muſt needs come ſome good Effect of it: for if it paſſes it will give us ſecurity; if it be obſtructed it will give us warning. I humbly move your Lordſhips that the Bill may be committed.</hi>
+            </p>
+            <p>
+               <hi>After which it being put to the queſtion whether the bill ſhould be rejected or committed, it was carried for the bill by</hi> 15.
+<hi>Votes, there being only</hi> 32 <hi>againſt it, and</hi> 47 <hi>for it, amongſt which latter were</hi> 5 <hi>Biſhops; but it was ſo late, that many of the laſt refuſed to stay, and ſo it was deferred to a further day, by which time ſo many Proxies were obtained, as threw out the Bill as nine a Clock at night by</hi> 2 <hi>Votes.</hi>
+            </p>
+            <p>
+               <hi>Note, The occaſion of all this was their having been ſeveral other Priſoners as well as theſe Lords brought to the Kings Bench, here was an Affidavit of Aaron Smith drawn privately at ſomebodys Chamber ſo equi<g ref="char:EOLhyphen"/>vocally that inſtead of the word Witneſſes, according to the Statute, he only ſwore there was Evidence a<g ref="char:EOLhyphen"/>gainſt each Priſoner, and at the end of it, inſtead of Witneſſes against each Priſoner, the Affidavit only mentioned Witneſſes againſt the Priſoners, by all which he ſaved himſelf from being forſworn, ſo prevent<g ref="char:EOLhyphen"/>ing any puniſhment, from being proſecuted by the the Priſoners and his Affidavit ſerved for
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tho' but an ill one for the Judges to remand the Priſoners back, they ſuppoſing there were two Witneſſe againſt each of the Priſoners.</hi> Note alſo, <hi>While this was under examination, the Judges ſhewed plain<g ref="char:EOLhyphen"/>ly they had not doubted of the Equivocation, but hoped it was ſufficient to warrant, or at leaſt to excuſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Proceedings, which perhaps had never thus luckily come to light, if Peers had not been concerned to bring it into their Houſe by the order of which entred in their Books the ſubjects of all Ranks are better ſecured ever after. Theſe Notes ſhould have been inſerted after the</hi> 17 <hi>day of</hi> Sep.
+1692.</p>
+            <argument>
+               <p>Note, <hi>That Precedence is not obſerved in the Houſe of Lords, where they Signe Proteſtations. He that draws them up Signs firſt, and then others as they come to the Books.</hi>
+               </p>
+            </argument>
+            <pb facs="tcp:94259:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
